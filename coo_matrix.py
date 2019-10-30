@@ -4,7 +4,10 @@
 Created on Tue Oct 22 15:40:31 2019
 
 @author: sourabh-burnwal
+
+python program to find addition and product of two sparse matrices as coo matrices:
 """
+
 import numpy as np
 
 #function to make coo matrix
